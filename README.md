@@ -14,7 +14,9 @@
 <br>
  Acesse o projeto QuizApp [QuizApp](https://github.com/AmandaMatar/VueCounterApp) para conferir tudo que foi desenvolvido usando o Vue3.
  <br>
+ <br>
  :wink:
+ <br>
  <br>
  Obrigada!
 
