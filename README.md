@@ -1,30 +1,23 @@
-# routervuelearning
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
 # RouterVueLearning
+
+**Este projeto está ligado ao terceiro projeto -QuizApp- proposto pelo The Vue 3 Bootcamp**
+
+### O que vimos?
+
+- Neste projeto aprendemos a usar o Router, ou vue-router, uma dependencia do Vue que auxilia no direcionamento dos paths e na ligação das páginas entre si. Uma ótima ferramenta que otimiza o código do desenvolvedor.
+<br>
+- Além disso, é importante ressaltar que este é um material de estudo e consulta, que será utilizado para desenvolver o projeto **QuizApp** dentro do Bootcamp. Por isso, não houve uma grande preocupação com a estilização da página.
+<br>
+<br>
+:slightly_smiling_face:
+<br>
+<br>
+ Acesse o projeto QuizApp [QuizApp](https://github.com/AmandaMatar/VueCounterApp) para conferir tudo que foi desenvolvido usando o Vue3.
+ <br>
+ :wink:
+ <br>
+ Obrigada!
+
+
+
+
