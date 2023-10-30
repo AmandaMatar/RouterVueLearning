@@ -12,7 +12,7 @@
 :slightly_smiling_face:
 <br>
 <br>
- Acesse o projeto [QuizApp](https://github.com/AmandaMatar/QuizApp) para conferir tudo que foi desenvolvido usando o Vue3.
+ Acesse o projeto QiuzApp[QuizApp](https://github.com/AmandaMatar/QuizApp) para conferir tudo que foi desenvolvido usando o Vue3.
  <br>
  <br>
  :wink:
